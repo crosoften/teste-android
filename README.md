@@ -7,7 +7,7 @@
 Obrigado por se candidatar à Crosoften, é uma honra ter você aqui!
 
 ## 1) Criar um app que use todos Endpoints dessa API, segue a documentação:
- - [Documentação da Api Teste](https://homolog.crosoften.com:9000/swagger/)
+ - [Documentação da Api Teste]((http://45.10.163.203:9000/swagger/))
 
 
 ## 2) O app deve conter no mínimo:
